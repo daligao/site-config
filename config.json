@@ -1,0 +1,37 @@
+{
+  "_note": "Remote control for all Chinese Culture Lab sites. Edit this file to instantly affect all tools.",
+  "_updated": "2026-09-11",
+
+  "kill_switches": {
+    "gift-checker": true,
+    "red-envelope": true,
+    "zodiac": true,
+    "kinship": true
+  },
+
+  "banners": {
+    "enabled": false,
+    "message": "",
+    "style": "info",
+    "link": "",
+    "link_text": ""
+  },
+
+  "cta": {
+    "primary_site": "chinesefortunetools.com",
+    "primary_label": "Explore More Chinese Tools",
+    "primary_url": "https://chinesefortunetools.com"
+  },
+
+  "features": {
+    "search_enabled": true,
+    "leaderboard_enabled": true,
+    "experiment_archive_enabled": true
+  },
+
+  "stages": {
+    "lab_prefix": "/lab/",
+    "beta_prefix": "/beta/",
+    "stable_prefix": "/"
+  }
+}
